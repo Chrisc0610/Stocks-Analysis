@@ -21,7 +21,7 @@ Once the refractor code executed the first test I ran was to verify that the cod
 	* I re organized the nested loops as well as added 4 new variables "tickerIndex, TickerVolumes, TickerStartingPrices, TickerEndingPrices" 
 	* Then set the to 0 to be looped over.
 	* the image below show a sample of this.
-	*[SnipofCode1](https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/SnipofCode.PNG?raw=true)
+	* [SnipofCode1](https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/SnipofCode.PNG?raw=true)
 	
 	
 - Then I created the nested loops that will run through all rows of the selected year.
@@ -30,6 +30,8 @@ Once the refractor code executed the first test I ran was to verify that the cod
 	* [SnipofCode2](https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/SnipofCode2.PNG?raw=true)
 				
 - We can tell by the images below that the code succesfully ran and in a more optimized time.
+	* [VBA_Challenge_2017](https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/VBA_Challenge_2017.PNG?raw=true)
+	* [VBA_Challenge_2018](https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/VBA_Challenge_2018.PNG?raw=true)
 	
 	
 ## Summary

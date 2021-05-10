@@ -11,7 +11,7 @@ In order to get the most efficient time frame and data set I had to break down t
 ## Results
 Based of the results it looks like 2017 was a much better year than 2018 when it comes to the 12 selected stocks. 
 Luckily our new refractor code can help Steves parents choose a new set of stocks to invest on.
-	* [all_stocks2018.PNG](all_stocks2017.PNG)
+	* [all_stocks2018.PNG](https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/all_stocks2017.PNG?raw=true)
 	* [all_stocks2018.PNG](all_stocks2018.PNG)
 
 Once the refractor code executed the first test I ran was to verify that the code runs with no errors and that the processing times upgraded.

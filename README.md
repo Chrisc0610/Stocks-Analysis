@@ -16,20 +16,20 @@ Luckily our new refractor code can help Steves parents choose a new set of stock
 
 Once the refractor code executed the first test I ran was to verify that the code runs with no errors and that the processing times upgraded.
 
-	- In order to achieve this the orginal code had to be cleaned up so that it can run in a more organized fashion. 
-	- The following snips of code below shows how i acheived to cut down the run time.
-		* I re organized the nested loops as well as added 4 new variables "tickerIndex, TickerVolumes, TickerStartingPrices, TickerEndingPrices" 
-		* Then set the to 0 to be looped over.
-		* the image below show a sample of this.
-		- [SnipofCode1]https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/SnipofCode.PNG?raw=true)
+- In order to achieve this the orginal code had to be cleaned up so that it can run in a more organized fashion. 
+- The following snips of code below shows how i acheived to cut down the run time.
+	* I re organized the nested loops as well as added 4 new variables "tickerIndex, TickerVolumes, TickerStartingPrices, TickerEndingPrices" 
+	* Then set the to 0 to be looped over.
+	* the image below show a sample of this.
+- [SnipofCode1]https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/SnipofCode.PNG?raw=true)
 	
 	
-	- Then I created the nested loops that will run through all rows of the selected year.
-		* These conditionals will increase the TickerVolumes per row, check if it is in the first row or last rown and add the price to its perspective variable 
-		* The image below show a sample of this
-		- [SnipofCode2]https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/SnipofCode2.PNG?raw=true)
+- Then I created the nested loops that will run through all rows of the selected year.
+	* These conditionals will increase the TickerVolumes per row, check if it is in the first row or last rown and add the price to its perspective variable 
+	* The image below show a sample of this
+	- [SnipofCode2]https://github.com/Chrisc0610/Stocks-Analysis/blob/main/Resources/SnipofCode2.PNG?raw=true)
 				
-	- We can tell by the images below that the code succesfully ran and in a more optimized time.
+- We can tell by the images below that the code succesfully ran and in a more optimized time.
 	
 	
 ## Summary

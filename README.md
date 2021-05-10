@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Stock-Analysis
 
 ## Overview of Project
 To help Steve's parents better analyze the entire stock martket data over a given number of years. While also optimizing the current code that was created for steve.

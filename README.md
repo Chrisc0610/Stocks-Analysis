@@ -2,7 +2,7 @@
 
 ## Overview of Project
 To help Steve's parents better analyze the entire stock martket data over a given number of years. While also optimizing the current code that was created for steve.
-In order to get the most efficient time frame and data set I had to break down the set of tasks in the following order:
+In order to get the most efficient time frame and data set I had to break down the set of tasks in the following order.
 	* Refractor the code.
 	* make sure to cut time in processing of code. 
 	* make sure it loops thorugh all rows for the selected year and ticker.
